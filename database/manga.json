@@ -1,44 +1,44 @@
-{
-  "manga_id": "a-dragonslayers-peerless-regression",
-  "title": "A Dragonslayer’s Peerless Regression",
-  "alternative_title": "Yongsaljaui Banbokeuro Level Up, The Dragonslayer's Regression",
-  "status": "Ongoing",
-  "author": "Yong Gam-han",
-  "artist": "Studio Inus",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy",
-    "Shounen",
-    "Regression"
-  ],
-  "type": "Manhwa",
-  "release_year": 2023,
-  "rating": "4.8",
-  "synopsis": "Slayer naga terkuat, Siegfried, gagal mengalahkan Naga Kiamat dan tewas dalam pertempuran. Namun, alih-alih pergi ke akhirat, dia terbangun kembali di masa lalunya sebagai seorang taruna akademi militer yang lemah. Berbekal ingatan masa depan dan teknik bertarung tingkat tinggi yang pernah ia kuasai, Siegfried bertekad untuk melampaui batas dirinya, mencegah tragedi masa lalu, dan bersiap menghadapi ancaman para naga dengan kekuatan yang jauh lebih superior.",
-  "cover_url": "https://raw.githubusercontent.com/username/repo-assets/main/comics/a-dragonslayers-peerless-regression/cover.jpg",
-  "chapters": [
-    {
-      "chapter_number": "01",
-      "chapter_title": "Prologue: Kehancuran Dunia",
-      "images": [
-        "https://raw.githubusercontent.com/username/repo-assets/main/comics/a-dragonslayers-peerless-regression/ch-01/001.jpg",
-        "https://raw.githubusercontent.com/username/repo-assets/main/comics/a-dragonslayers-peerless-regression/ch-01/002.jpg",
-        "https://raw.githubusercontent.com/username/repo-assets/main/comics/a-dragonslayers-peerless-regression/ch-01/003.jpg",
-        "https://raw.githubusercontent.com/username/repo-assets/main/comics/a-dragonslayers-peerless-regression/ch-01/004.jpg",
-        "https://raw.githubusercontent.com/username/repo-assets/main/comics/a-dragonslayers-peerless-regression/ch-01/005.jpg"
-      ]
-    },
-    {
-      "chapter_number": "02",
-      "chapter_title": "Kesempatan Kedua",
-      "images": [
-        "https://raw.githubusercontent.com/username/repo-assets/main/comics/a-dragonslayers-peerless-regression/ch-02/001.jpg",
-        "https://raw.githubusercontent.com/username/repo-assets/main/comics/a-dragonslayers-peerless-regression/ch-02/002.jpg",
-        "https://raw.githubusercontent.com/username/repo-assets/main/comics/a-dragonslayers-peerless-regression/ch-02/003.jpg",
-        "https://raw.githubusercontent.com/username/repo-assets/main/comics/a-dragonslayers-peerless-regression/ch-02/004.jpg",
-        "https://raw.githubusercontent.com/username/repo-assets/main/comics/a-dragonslayers-peerless-regression/ch-02/005.jpg"
-      ]
-    }
-  ]
-}
+[
+  {
+    "id": "The S-Classes That I Raised",
+    "title": "THE S CLASSES THAT I RAISED",
+    "cover": "https://via.placeholder.com/400x600/161b22/00bfff?text=The S-Classes That I Raised",
+    "category": "Adventure",
+    "cbz_url": "https://raw.githubusercontent.com/AnangHardanto/monstadata/main/Adventure/The%20S-Classes%20That%20I%20Raised.cbz"
+  },
+  {
+    "id": "Villain To Kill",
+    "title": "VILLAIN TO KILL",
+    "cover": "https://via.placeholder.com/400x600/161b22/00bfff?text=Villain To Kill",
+    "category": "Adventure",
+    "cbz_url": "https://raw.githubusercontent.com/AnangHardanto/monstadata/main/Adventure/Villain%20To%20Kill.cbz"
+  },
+  {
+    "id": "Chronicles Of The Martial God_s Return",
+    "title": "CHRONICLES OF THE MARTIAL GOD_S RETURN",
+    "cover": "https://via.placeholder.com/400x600/161b22/00bfff?text=Chronicles Of The Martial God_s Return",
+    "category": "Horor",
+    "cbz_url": "https://raw.githubusercontent.com/AnangHardanto/monstadata/main/Horor/Chronicles%20Of%20The%20Martial%20God_s%20Return.cbz"
+  },
+  {
+    "id": "Solo Max-Level Newbie",
+    "title": "SOLO MAX LEVEL NEWBIE",
+    "cover": "https://via.placeholder.com/400x600/161b22/00bfff?text=Solo Max-Level Newbie",
+    "category": "Horor",
+    "cbz_url": "https://raw.githubusercontent.com/AnangHardanto/monstadata/main/Horor/Solo%20Max-Level%20Newbie.cbz"
+  },
+  {
+    "id": "Academy_s Genius Swordmaster",
+    "title": "ACADEMY_S GENIUS SWORDMASTER",
+    "cover": "https://via.placeholder.com/400x600/161b22/00bfff?text=Academy_s Genius Swordmaster",
+    "category": "Romance",
+    "cbz_url": "https://raw.githubusercontent.com/AnangHardanto/monstadata/main/Romance/Academy_s%20Genius%20Swordmaster.cbz"
+  },
+  {
+    "id": "Children of the Rune",
+    "title": "CHILDREN OF THE RUNE",
+    "cover": "https://via.placeholder.com/400x600/161b22/00bfff?text=Children of the Rune",
+    "category": "Romance",
+    "cbz_url": "https://raw.githubusercontent.com/AnangHardanto/monstadata/main/Romance/Children%20of%20the%20Rune.cbz"
+  }
+]
